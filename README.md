@@ -42,3 +42,4 @@ Spelling must be correct and fonts too
 9) Give a title and description
 10) Wait for a pull request to come
 11) Merge it and then the person will successfully complete 1 pr
+hacktoberfest-contribute repo
